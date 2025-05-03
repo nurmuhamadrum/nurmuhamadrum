@@ -1,7 +1,7 @@
-👋 Hi, I'm Nur Muhamad Rum (some know me as Rum). I am on a self-taught journey, working full time and studying programming in between! JavaScript was my first language and I'm currently pursuing a Full-Stack roadmap.
+👋 Hi, I'm Nur Muhamad Rum. I am on a Software Engineer with expertise in React Native & Flutter for mobile application and React.js, Next.js, Node.js, Express.js & GraphQL for web applications. I craft sleek, high-performance, and accessible digital experiences that users love..
 
 - 🌍  I'm based in Indonesia!
-- 📫  You can contact me at nurmuhamadrum@gmail.com
+- 📫  You can contact me at nurmuhdev@gmail.com
 - 🤝  I'm open to collaborating on open-source or personal projects.
 
 ### Skills
@@ -18,4 +18,4 @@
 
 ### Socials
 
-<p align="left"> <a href="http://www.instagram.com/nurmuhamadrum" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="http://www.instagram.com/nurmuhdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
