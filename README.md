@@ -1,4 +1,4 @@
-👋 Hi, I'm Nur Muhamad Rum. I am on a Software Engineer with expertise in React Native & Flutter for mobile application and React.js, Next.js, Node.js, Express.js & GraphQL for web applications. I craft sleek, high-performance, and accessible digital experiences that users love..
+👋 Hi, I'm Nur Muhamad Rum. I am on a Software Engineer with expertise in React Native & Flutter for mobile application and React.js, Next.js, Node.js, Express.js & GraphQL for web applications. I craft sleek, high-performance, and accessible digital experiences that users love.
 
 - 🌍  I'm based in Indonesia!
 - 📫  You can contact me at nurmuhdev@gmail.com
